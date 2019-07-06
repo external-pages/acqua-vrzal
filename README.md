@@ -1,2 +1,5 @@
 # acquaglitch
-"?/§nake/girl/?": a net art collaboration with artist Acqua Vrzal in Berlin. Mixing liquify filters and magic wand selection tools in Photoshop with glitches and lags in CSS animation filters, the project questions what alternatives can be found in exploring the self via grainy DIY imagery, distortion, and fantasy narratives. 
+Glitch art project called "?/§nake/girl/?". 
+
+Graphics made by Berlin-based artist Acqua Vrzal.<br>
+Mixing Photoshop's liquify filters and magic wand selection tools with CSS glitches and lags, this project questions what alternatives can be found in exploring the self via grainy DIY imagery and distortion through fantasy visuals.
